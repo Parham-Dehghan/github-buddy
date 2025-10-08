@@ -12,7 +12,7 @@ Installation
 Follow these steps to set up GitHub Buddy on your local machine:
 
 Clone the Repository:
-git clone https://github.com/your-username/github-buddy.git
+git clone https://github.com/Parham-Dehghan/github-buddy.git
 cd github-buddy
 
 
